@@ -1,0 +1,7 @@
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\bin\Debug\Task1.calculator.exe.config
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\bin\Debug\Task1.calculator.exe
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\bin\Debug\Task1.calculator.pdb
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\obj\Debug\Task1.calculator.csproj.AssemblyReference.cache
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\obj\Debug\Task1.calculator.csproj.CoreCompileInputs.cache
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\obj\Debug\Task1.calculator.exe
+D:\Semester 2\Pemrograman\Task 01\Task1.calculator\obj\Debug\Task1.calculator.pdb
